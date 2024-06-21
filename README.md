@@ -6,11 +6,8 @@
 - 🌟 Always eager to learn new things and take on challenges.
 
 ### 🌱 Currently Learning
-- 🚀 Exploring advanced JavaScript frameworks like React and Vue.js.
-- 🌐 Enhancing backend skills with Node.js and Express.
 - 📊 Delving into data structures and algorithms to sharpen problem-solving skills.
-- 🛠️ Experimenting with DevOps tools like Docker and Kubernetes.
-- 🧠 Learning AI and machine learning with Python and TensorFlow.
+- 🔍 Currently learning programming languages and AWS.
 
 ### 💞️ Looking to Collaborate On
 - 🔧 Open-source projects in web development.
