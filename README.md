@@ -18,7 +18,6 @@
 ### 📫 How to Reach Me
 - 📧 Email: [adamtejaswini1432@gmail.com](mailto:adamtejaswini1432@gmail.com)
 - 💼 LinkedIn: [Adam Tejaswini](https://www.linkedin.com/in/adam-tejaswini-0a4728213)
-- 📸 Instagram: [@fidelity_loyalista](https://www.instagram.com/fidelity_loyalista)
 
 ### 😄 Pronouns
 - She/Her
